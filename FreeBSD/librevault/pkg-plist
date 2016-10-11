@@ -1,0 +1,4 @@
+bin/%%QT_LIBDIR%%revault-daemon
+bin/%%QT_LIBDIR%%revault-gui
+share/applications/Librevault.desktop
+share/icons/hicolor/scalable/apps/%%QT_LIBDIR%%revault.svg
